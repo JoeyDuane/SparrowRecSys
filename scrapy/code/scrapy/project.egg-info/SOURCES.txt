@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+sparrowrecsys/__init__.py
+sparrowrecsys/items.py
+sparrowrecsys/middlewares.py
+sparrowrecsys/pipelines.py
+sparrowrecsys/settings.py
+sparrowrecsys/spiders/__init__.py
+sparrowrecsys/spiders/sparrowrecsys.py
